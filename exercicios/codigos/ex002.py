@@ -1,0 +1,6 @@
+n = input('digite algo: ')
+print('o tipo primitivo deste valor é {} '.format(type(n)))
+print('é numerico?: '.isnumeric())
+print('tem espaços: '.isspace())
+print('é alfabetico'.isalpha())
+print('é alfanumerico'.isalnum())
